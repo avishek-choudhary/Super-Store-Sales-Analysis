@@ -7,7 +7,8 @@ This repository contains a Power Bi dashboard of an E-com store called "Super St
 
 ## Screenshot
 
-![dashboard preview](https://github.com/avishek09/E-Commerce-Store-Analysis-/assets/75924699/5151c585-882b-4db4-b324-a8cc63256fb4)
+![dashboard preview](https://github.com/avishek09/Super-Store-Sales-Analysis/assets/75924699/9379c533-37ab-425b-907e-9b8722d56341)
+![forecast preview](https://github.com/avishek09/Super-Store-Sales-Analysis/assets/75924699/60c21182-f7f6-46a5-b2c6-d35a979a953c)
 
 ## Installation
 
@@ -29,7 +30,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-This project was created by following this tutorial: https://youtu.be/6cV3OwFrOkk
+This project was created by following this tutorial: https://youtu.be/fZn83JRt4Nk
 
 ## Badges
 
@@ -40,7 +41,8 @@ This project was created by following this tutorial: https://youtu.be/6cV3OwFrOk
 
 * Created an interactive dashboard to track and analyze online sales data.
 * Used complex parameters to drill down in worksheet and customization using filters and slicers.
-* Created connections, joined new tables, did calculations to manipulate data, and enabled user-driven parameters for visualization.
+* Did calculations to manipulate data, and enabled user-driven parameters for visualization.
+* Forecasted sales data
 * Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc)
 
 ## Conclusion
