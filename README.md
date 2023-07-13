@@ -30,7 +30,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-This project was created by following this tutorial: https://youtu.be/fZn83JRt4Nk
+Throughout the development of this project, I have sought inspiration from a pivotal video source: https://youtu.be/fZn83JRt4Nk
 
 ## Badges
 
